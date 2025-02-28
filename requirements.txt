@@ -1,0 +1,8 @@
+langchain_groq
+langchain
+sentence_transformers
+faiss-cpu
+langchain-huggingface
+langchain_community
+python-dotenv
+bs4
